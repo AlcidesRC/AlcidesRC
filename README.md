@@ -22,9 +22,9 @@ Consultor _freelance_. </br>
   <tbody>
     <tr>
       <td>
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/gnubash.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/php.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/python.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/gnubash.svg" /> &nbsp;
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/php.svg" /> &nbsp;
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/python.svg" /> &nbsp;
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/ruby.svg" /> &nbsp;
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/go.svg" /> &nbsp;
       </td>
@@ -38,6 +38,9 @@ Consultor _freelance_. </br>
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/mysql.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/postgresql.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/sqlite.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/elasticsearch.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/redis.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/mongodb.svg" /> &nbsp;
       </td>
     </tr>
   </tbody>
@@ -69,17 +72,18 @@ Consultor _freelance_. </br>
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/socketdotio.svg" /> &nbsp; 
       </td>
       <td>
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/elasticsearch.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/redis.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/mongodb.svg" /> &nbsp;
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/git.svg" /> &nbsp;
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/github.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/swagger.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/rabbitmq.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/swagger.svg" /> &nbsp;  
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/postman.svg" /> &nbsp;
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/opencv.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/tensorflow.svg" /> &nbsp;
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/rabbitmq.svg" /> &nbsp;
       </td>
       <td>
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/docker.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/amazonaws.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/nginx.svg" /> &nbsp; 
       </td>
     </tr>
   </tbody>
