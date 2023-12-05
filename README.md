@@ -93,6 +93,26 @@ Consultor _freelance_. </br>
 
 ### Proyectos
 
+<dl>
+  <dt>Coloreeze</dt>
+  <dd>
+    Una librería escrita en PHP que facilita la conversión entre diferentes espacios de colores.<br/>
+    Fuente: https://github.com/fonil/coloreeze
+  </dd>
+
+  <dt>Dockerized PHP</dt>
+  <dd>
+    Entorno dockerizado de desarrollo de aplicaciones en PHP.</br>
+    Fuente: https://github.com/fonil/dockerized-php
+  </dd>
+
+  <dt>Dockerized Go</dt>
+  <dd>
+    Entorno dockerizado de desarrollo de aplicaciones en Go.</br>
+    Fuente: https://github.com/fonil/dockerized-go
+  </dd>
+</dl>
+
 ### Estadísticas
 
 ![Profile views](https://komarev.com/ghpvc/?username=alcidesrc&color=blue)
