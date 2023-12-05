@@ -5,7 +5,9 @@
 
 ### Sobre mi
 
-Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.com/?ref=github-alcidesrc)
+Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.com/?ref=github-alcidesrc). </br>
+**Chief Technology Officer** de varias empresas. </br>
+Consultor _freelance_. </br>
 
 ### Lenguajes de Programación
 
