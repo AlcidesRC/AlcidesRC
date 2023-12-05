@@ -124,7 +124,7 @@ Consultor _freelance_. </br>
 
 <dl>
   <dt>[Buscando imágenes similares](https://github.com/AlcidesRC/cv-searching-similar-images)</dt>
-  <dd>Charla #1: Buscando imágenes similares.</dd>
+  <dd>Charla #1: Buscando imágenes similares usando pHashes.</dd>
 
   <dt>[Identificando objetos dentro de imágenes #1](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)</dt>
   <dd>Charla #2: Localizando e identificando objectos dentro de una imágen usando OpenCV.</dd>
