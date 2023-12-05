@@ -15,7 +15,7 @@
 
 - Open Source
 - Desarrollo de software
-- Infraestructura
+- DevOps y GitOps
 
 ### Lenguajes de Programación y Bases de Datos
 
@@ -102,6 +102,12 @@
 ### Certificados
 
 - **The Complete Ruby on Rails Developer Course** de [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/), Noviembre 2022 
+
+### Cursos[^1]
+
+- [CI/CD con GitHub & Docker](https://github.com/AlcidesRC/ci-cd-github-docker)
+
+[^1]: Aún en preparación
 
 ### Charlas[^1]
 
