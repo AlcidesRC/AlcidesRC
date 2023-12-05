@@ -93,22 +93,47 @@ Consultor _freelance_. </br>
 
 ### Proyectos
 
+#### Librerías
+
 <dl>
   <dt>[Coloreeze](https://github.com/fonil/coloreeze)</dt>
   <dd>Una librería escrita en PHP que facilita la conversión entre diferentes espacios de colores.</dd>
 
+  <dt>[Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)</dt>
+  <dd>Implementación de PUB/SUB con Redis y PHP.</dd>
+</dl>
+
+#### Entornos de Desarrollo
+
+<dl>
   <dt>[Dockerized PHP](https://github.com/fonil/dockerized-php)</dt>
   <dd>Entorno dockerizado de desarrollo de aplicaciones en PHP.</dd>
 
   <dt>[Dockerized Go](https://github.com/fonil/dockerized-go)</dt>
   <dd>Entorno dockerizado de desarrollo de aplicaciones en Go.</dd>
+</dl>
 
-  <dt>[Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)</dt>
-  <dd>Implementación de PUB/SUB con Redis y PHP.</dd>
+#### Ideas
 
+<dl>
   <dt>[Sudokus Solver in PHP](https://github.com/alcidesrc/sudoku-solver-in-php)</dt>
   <dd>Resolviendo sudokus con PHP</dd>
 </dl>
+
+#### Charlas
+
+<dl>
+  <dt>[Buscando imágenes similares](https://github.com/AlcidesRC/cv-searching-similar-images)</dt>
+  <dd>Charla #1: Buscando imágenes similares.</dd>
+
+  <dt>[Identificando objetos dentro de imágenes #1](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)</dt>
+  <dd>Charla #2: Localizando e identificando objectos dentro de una imágen usando OpenCV.</dd>
+
+  <dt>[Identificando objetos dentro de imágenes #2](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml)</dt>
+  <dd>Charla #3: Localizando e identificando elementos dentro de una imágen usando Machine Learning.</dd>
+</dl>
+
+#### 
 
 ### Estadísticas
 
