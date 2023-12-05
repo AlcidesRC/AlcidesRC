@@ -95,45 +95,28 @@ Consultor _freelance_. </br>
 
 #### Librerías
 
-<dl>
-  <dt>[Coloreeze](https://github.com/fonil/coloreeze)</dt>
-  <dd>Una librería escrita en PHP que facilita la conversión entre diferentes espacios de colores.</dd>
-
-  <dt>[Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)</dt>
-  <dd>Implementación de PUB/SUB con Redis y PHP.</dd>
-</dl>
+- [Librería en PHP para la conversión de colores](https://github.com/fonil/coloreeze)
+- [Librería que implementa Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)
 
 #### Entornos de Desarrollo
 
-<dl>
-  <dt>[Dockerized PHP](https://github.com/fonil/dockerized-php)</dt>
-  <dd>Entorno dockerizado de desarrollo de aplicaciones en PHP.</dd>
-
-  <dt>[Dockerized Go](https://github.com/fonil/dockerized-go)</dt>
-  <dd>Entorno dockerizado de desarrollo de aplicaciones en Go.</dd>
-</dl>
+- [Entorno dockerizado de desarrollo de aplicaciones en PHP](https://github.com/fonil/dockerized-php)
+- [Entorno dockerizado de desarrollo de aplicaciones en Go](https://github.com/fonil/dockerized-go)
 
 #### Ideas
 
-<dl>
-  <dt>[Sudokus Solver in PHP](https://github.com/alcidesrc/sudoku-solver-in-php)</dt>
-  <dd>Resolviendo sudokus con PHP</dd>
-</dl>
+- [Resolviendo sudokus con PHP](https://github.com/alcidesrc/sudoku-solver-in-php)
 
 #### Charlas
 
-<dl>
-  <dt>[Buscando imágenes similares](https://github.com/AlcidesRC/cv-searching-similar-images)</dt>
-  <dd>Charla #1: Buscando imágenes similares usando pHashes.</dd>
+- [Charla #1: Buscando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)
+- [Charla #2: Identificando objectos dentro de una imágen usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)
+- [Charla #2: Identificando objectos dentro de una imágen usando ML](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml)
 
-  <dt>[Identificando objetos dentro de imágenes #1](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)</dt>
-  <dd>Charla #2: Localizando e identificando objectos dentro de una imágen usando OpenCV.</dd>
+#### Gists
 
-  <dt>[Identificando objetos dentro de imágenes #2](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml)</dt>
-  <dd>Charla #3: Localizando e identificando elementos dentro de una imágen usando Machine Learning.</dd>
-</dl>
-
-#### 
+- [Códigos Postales de España en formato CSV](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177)
+- [Cómo crear un backup con Bash y AWS S3](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)
 
 ### Estadísticas
 
