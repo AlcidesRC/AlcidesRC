@@ -94,23 +94,20 @@ Consultor _freelance_. </br>
 ### Proyectos
 
 <dl>
-  <dt>Coloreeze</dt>
-  <dd>
-    Una librería escrita en PHP que facilita la conversión entre diferentes espacios de colores.<br/>
-    Fuente: https://github.com/fonil/coloreeze
-  </dd>
+  <dt>[Coloreeze](https://github.com/fonil/coloreeze)</dt>
+  <dd>Una librería escrita en PHP que facilita la conversión entre diferentes espacios de colores.</dd>
 
-  <dt>Dockerized PHP</dt>
-  <dd>
-    Entorno dockerizado de desarrollo de aplicaciones en PHP.</br>
-    Fuente: https://github.com/fonil/dockerized-php
-  </dd>
+  <dt>[Dockerized PHP](https://github.com/fonil/dockerized-php)</dt>
+  <dd>Entorno dockerizado de desarrollo de aplicaciones en PHP.</dd>
 
-  <dt>Dockerized Go</dt>
-  <dd>
-    Entorno dockerizado de desarrollo de aplicaciones en Go.</br>
-    Fuente: https://github.com/fonil/dockerized-go
-  </dd>
+  <dt>[Dockerized Go](https://github.com/fonil/dockerized-go)</dt>
+  <dd>Entorno dockerizado de desarrollo de aplicaciones en Go.</dd>
+
+  <dt>[Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)</dt>
+  <dd>Implementación de PUB/SUB con Redis y PHP.</dd>
+
+  <dt>[Sudokus Solver in PHP](https://github.com/alcidesrc/sudoku-solver-in-php)</dt>
+  <dd>Resolviendo sudokus con PHP</dd>
 </dl>
 
 ### Estadísticas
