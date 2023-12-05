@@ -83,6 +83,10 @@ Consultor _freelance_. </br>
   </tbody>
 </table>
 
+### Certificados
+
+- **The Complete Ruby on Rails Developer Course** de [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/), Noviembre 2022 
+
 ### Proyectos
 
 ### Estadísticas
