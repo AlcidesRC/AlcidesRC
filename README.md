@@ -14,6 +14,7 @@ Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.co
     <tr>
       <th>Backend</th>
       <th>Frontend</th>
+      <th>Bases de Datos</th>
     </tr>
   </thead>
   <tbody>
@@ -30,6 +31,11 @@ Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.co
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/vuedotjs.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/angular.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/lit.svg" /> &nbsp; 
+      </td>
+      <td>
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/mysql.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/postgresql.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/sqlite.svg" /> &nbsp; 
       </td>
     </tr>
   </tbody>
@@ -65,12 +71,11 @@ Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.co
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/git.svg" /> &nbsp;
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/github.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/swagger.svg" /> &nbsp; 
+        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/rabbitmq.svg" /> &nbsp; 
       </td>
       <td>
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/docker.svg" /> &nbsp; 
         <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/amazonaws.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/awslambda.svg" /> &nbsp; 
-        <img height="24" width="24" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/6.8.0/amazonec2.svg" /> &nbsp; 
       </td>
     </tr>
   </tbody>
