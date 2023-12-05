@@ -9,7 +9,7 @@ Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.co
 **Chief Technology Officer** de varias empresas. </br>
 Consultor _freelance_. </br>
 
-### Lenguajes de Programación[^1]
+### Lenguajes de Programación y Bases de Datos
 
 <table>
   <thead>
@@ -43,9 +43,9 @@ Consultor _freelance_. </br>
   </tbody>
 </table>
 
-[^1]: Lenguajes más usados
+> Recursos más usados a diario
 
-### Frameworks, Herramientas e Infraestructura[^2]
+### Frameworks, Herramientas e Infraestructura
 
 <table>
   <thead>
@@ -85,7 +85,7 @@ Consultor _freelance_. </br>
   </tbody>
 </table>
 
-[^2]: Recursos más usados
+> Recursos más usados a diario
 
 ### Certificados
 
