@@ -5,9 +5,17 @@
 
 ### Sobre mi
 
-Soy **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.com/?ref=github-alcidesrc) y **Chief Technology Officer** en varias empresas. </br>
-Consultor _freelance_. </br>
-Padre a tiempo completo.
+- Trabajo como **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.com/?ref=github-alcidesrc)
+- Trabajo como **Chief Technology Officer** en **Futur Legal Advocats i Economistes S.L.P.**, entre otras
+- Soy consultor _freelance_
+- Soy padre a tiempo completo
+- ¡Ah! Y tengo Asperger
+
+#### Intereses
+
+- Open Source
+- Desarrollo de software
+- Infraestructura
 
 ### Lenguajes de Programación y Bases de Datos
 
