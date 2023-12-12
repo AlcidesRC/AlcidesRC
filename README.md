@@ -113,7 +113,7 @@
 
 - [Charla #1: Buscando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)
 - [Charla #2: Identificando objectos dentro de una imágen usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)
-- [Charla #2: Identificando objectos dentro de una imágen usando ML](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml)
+- [Charla #3: Identificando objectos dentro de una imágen usando ML](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml)
 
 [^1]: Aún en preparación
 
