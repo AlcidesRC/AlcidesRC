@@ -5,7 +5,6 @@
 
 ### Sobre mi
 
-- Trabajo como **Senior Software Engineer** en [LIFULLConnect](https://www.lifullconnect.com/?ref=github-alcidesrc)
 - Trabajo como **Chief Technology Officer** en **Futur Legal Advocats i Economistes S.L.P.**, entre otras
 - Soy consultor _freelance_
 - Soy padre a tiempo completo
