@@ -5,8 +5,8 @@
 
 ### Sobre mi
 
-- Trabajo como **Chief Technology Officer** en **Futur Legal Advocats i Economistes S.L.P.**, entre otras
-- Soy consultor _freelance_
+- Trabajo como **Software Engineer** y **Chief Technology Officer** en **Futur Legal Advocats i Economistes S.L.P.**, entre otras
+- Puedes contactarme para la realización de consultorías sobre arquitectura de sistemas, desarrollo y/o mentorización de equipos
 - Soy padre a tiempo completo
 - ¡Ah! Y tengo Asperger
 
