@@ -121,6 +121,7 @@
 - Librerías
   - [Librería en PHP para la conversión de colores](https://github.com/fonil/coloreeze)
   - [Librería que implementa Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)
+  - [Clase para optimizar estructuras cacheables en PHP](https://github.com/fonil/cache)
 - Entornos de Desarrollo
   - [Entorno dockerizado de desarrollo de aplicaciones en PHP-FPM](https://github.com/fonil/dockerized-php)
   - [Entorno dockerizado de desarrollo de microservicios en PHP-FPM y Caddy](https://github.com/fonil/microservice-caddy-phpfpm)
