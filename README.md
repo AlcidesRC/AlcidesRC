@@ -102,8 +102,9 @@
 
 - **The Complete Ruby on Rails Developer Course** de [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/), Noviembre 2022 
 
-### Cursos[^1]
+### Cursos y Talleres[^1]
 
+- [Taller introductorio de Docker](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)
 - [CI/CD con GitHub & Docker](https://github.com/AlcidesRC/ci-cd-github-docker)
 
 [^1]: Aún en preparación
