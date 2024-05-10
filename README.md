@@ -5,16 +5,17 @@
 
 ### Sobre mi
 
-- Trabajo como **Software Engineer** y **Chief Technology Officer** en **Futur Legal Advocats i Economistes S.L.P.**, entre otras
-- Puedes contactarme para la realización de consultorías sobre arquitectura de sistemas, desarrollo y/o mentorización de equipos
+- Trabajo como **Software Engineer**/**Lead Tech Developer**/**Chief of Technical Office** 
+- Puedes contactarme para la realización de consultorías sobre desarrollo, arquitectura de software y/o mentorización de equipos
 - Soy padre a tiempo completo
 - ¡Ah! Y tengo Asperger
 
 #### Intereses
 
+- PHP/Python/Ruby
 - Open Source
 - Desarrollo de software
-- DevOps y GitOps
+- DevOps/GitOps
 
 ### Lenguajes de Programación y Bases de Datos
 
