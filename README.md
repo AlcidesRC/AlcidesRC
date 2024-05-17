@@ -121,6 +121,7 @@
 ### Proyectos
 
 - Librerías
+  - [Librería en PHP con tipos de datos más estrictos con PHP](https://github.com/fonil/severe)
   - [Librería en PHP para la ejecución de flujos de tareas](https://github.com/fonil/sequence)
   - [Clase para optimizar estructuras cacheables en PHP](https://github.com/fonil/cache)
   - [Librería que implementa Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)
