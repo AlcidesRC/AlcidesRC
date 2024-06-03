@@ -128,6 +128,7 @@
   - [Librería en PHP para la conversión de colores](https://github.com/fonil/coloreeze)
   
 - Entornos de Desarrollo
+  - [Skeleton para crear aplicaciones PHP con herramientas y comandos frecuentes](https://github.com/fonil/php-skeleton)
   - [Entorno dockerizado de desarrollo de aplicaciones en PHP-FPM](https://github.com/fonil/dockerized-php)
   - [Entorno dockerizado de desarrollo de microservicios en PHP-FPM y Caddy](https://github.com/fonil/microservice-caddy-phpfpm)
   - [Entorno dockerizado de desarrollo de aplicaciones en Go](https://github.com/fonil/dockerized-go)
