@@ -5,14 +5,14 @@
 
 ### Sobre mi
 
-- Trabajo como **Software Engineer**/**Lead Tech Developer**/**Chief of Technical Office** 
+- Trabajo como **Software Engineer** en [Lleego Travel Market SL](https://lleego.com) y como **Chief of Technical Office** en [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com). 
 - Puedes contactarme para la realización de consultorías sobre desarrollo, arquitectura de software y/o mentorización de equipos
 - Soy padre a tiempo completo
 - ¡Ah! Y tengo Asperger
 
 #### Intereses
 
-- PHP/Python/Ruby
+- PHP/Python/Ruby/Go
 - Open Source
 - Desarrollo de software
 - DevOps/GitOps
