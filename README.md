@@ -103,19 +103,19 @@
 
 - **The Complete Ruby on Rails Developer Course** de [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/), Noviembre 2022 
 
-### Talleres[^1]
+### Talleres
 
 - [Taller: Docker para devs PHP](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)
-- Taller: Desplegando aplicaciones PHP con Docker
-- Taller: Usando CI/CD en nuestras aplicaciones PHP
+- Taller: Desplegando aplicaciones PHP con Docker[^1]
+- Taller: Usando CI/CD en nuestras aplicaciones PHP[^1]
 
 [^1]: Aún en preparación
 
-### Charlas[^1]
+### Charlas
 
 - [Charla #1: Buscando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)
 - [Charla #2: Identificando objectos dentro de una imágen usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)
-- [Charla #3: Identificando objectos dentro de una imágen usando ML](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml)
+- Charla #3: Identificando objectos dentro de una imágen usando ML[^1]
 
 [^1]: Aún en preparación
 
