@@ -109,7 +109,7 @@
 
 [^1]: Aún en preparación
 
-### Charlas
+### Charlashttps://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465
 
 - [Charla #1: Buscando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)
 - [Charla #2: Identificando objectos dentro de una imágen usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)
@@ -137,6 +137,7 @@
   
 ### Gists
 
+- [Makefile para proyectos PHP](https://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465)
 - [Códigos Postales de España en formato CSV](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177)
 - [Cómo crear un backup con Bash y AWS S3](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)
 
