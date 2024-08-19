@@ -5,10 +5,8 @@
 
 ### Sobre mi
 
-- Trabajo como **Software Engineer** en [Lleego Travel Market SL](https://lleego.com) y como **Chief of Technical Office** en [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com). 
-- Puedes contactarme para la realización de consultorías sobre desarrollo, arquitectura de software y/o mentorización de equipos
-- Soy padre a tiempo completo
-- ¡Ah! Y tengo Asperger
+- Trabajo como **SWE** en [Lleego Travel Market SL](https://lleego.com) y como **CTO** en [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com).
+- Soy padre a tiempo completo pero puedes contactarme para la realización de **consultorías** o para la **mentorización/formación** de equipos.
 
 #### Intereses
 
@@ -121,20 +119,21 @@
 
 ### Proyectos
 
-- Librerías
-  - [Librería en PHP con tipos de datos más estrictos con PHP](https://github.com/fonil/severe)
-  - [Librería en PHP para la ejecución de flujos de tareas](https://github.com/fonil/sequence)
-  - [Clase para optimizar estructuras cacheables en PHP](https://github.com/fonil/cache)
-  - [Librería que implementa Redis Pub/Sub con PHP](https://github.com/alcidesrc/php-redis-pubsub)
-  - [Librería en PHP para la conversión de colores](https://github.com/fonil/coloreeze)
-  
 - Entornos de Desarrollo
-  - [Skeleton para crear aplicaciones PHP con herramientas y comandos frecuentes](https://github.com/fonil/php-skeleton)
-  - [Entorno dockerizado de desarrollo de aplicaciones en PHP-FPM](https://github.com/fonil/dockerized-php)
-  - [Entorno dockerizado de desarrollo de microservicios en PHP-FPM y Caddy](https://github.com/fonil/microservice-caddy-phpfpm)
-  - [Entorno dockerizado de desarrollo de aplicaciones en Go](https://github.com/fonil/dockerized-go)
-- Ideas
-  - [Resolviendo sudokus con PHP](https://github.com/alcidesrc/sudoku-solver-in-php)
+  - [Skeleton para crear aplicaciones PHP con herramientas y comandos frecuentes](https://github.com/AlcidesRC/php-skeleton)
+  - [Entorno dockerizado de desarrollo de aplicaciones en PHP-FPM](https://github.com/AlcidesRC/dockerized-php)
+  - [Entorno dockerizado de desarrollo de microservicios en PHP-FPM y Caddy](https://github.com/AlcidesRC/microservice-caddy-phpfpm)
+  - [Entorno dockerizado de desarrollo de aplicaciones en Go](https://github.com/AlcidesRC/dockerized-go)
+
+- Librerías
+  - [Librería en PHP con tipos de datos más estrictos con PHP](https://github.com/AlcidesRC/severe)
+  - [Librería en PHP para la ejecución de flujos de tareas](https://github.com/AlcidesRC/sequence)
+  - [Clase para optimizar estructuras cacheables en PHP](https://github.com/AlcidesRC/cache)
+  - [Librería que implementa Redis Pub/Sub con PHP](https://github.com/AlcidesRC/php-redis-pubsub)
+  - [Librería en PHP para la conversión de colores](https://github.com/AlcidesRC/coloreeze)
+  
+- Ideas y PoC
+  - [Resolviendo sudokus con PHP](https://github.com/AlcidesRC/sudoku-solver-in-php)
   
 ### Gists
 
