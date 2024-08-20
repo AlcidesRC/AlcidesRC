@@ -133,6 +133,7 @@
   - [Librería en PHP para la conversión de colores](https://github.com/AlcidesRC/coloreeze)
   
 - Ideas y PoC
+  - [Obteniendo los códigos postales de España con PHP](https://github.com/AlcidesRC/scraping-correos-with-php)  
   - [Resolviendo sudokus con PHP](https://github.com/AlcidesRC/sudoku-solver-in-php)
   
 ### Gists
