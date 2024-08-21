@@ -101,46 +101,60 @@
 
 - **The Complete Ruby on Rails Developer Course** de [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/), Noviembre 2022 
 
-### Talleres
+### Formación
 
-- [Taller: Docker para devs PHP](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)
-- Taller: Desplegando aplicaciones PHP con Docker[^1]
-- Taller: Usando CI/CD en nuestras aplicaciones PHP[^1]
+| Tipo   | Nombre                           | Lenguaje | Estado         |
+| ------ | -------------------------------- | -------- | -------------- |
+| Taller | [Docker para devs](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)                 | PHP      | Completa       |
+| Taller | Continuous Integration para devs | PHP      | En preparación |
+| Taller | Continuous Deployment para devs  | PHP      | En preparación |
 
-[^1]: Aún en preparación
+### Charlas sobre Computer Vision
 
-### Charlashttps://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465
+| ID | Nombre                                                                 | Lenguaje | Estado         |
+| --:| ---------------------------------------------------------------------- | -------- | -------------- |
+| 1  | [Identificando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                        | PHP      | Completa       |
+| 2  | [Identificando objectos exactos en imágenes usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)               | Python   | Completa       |
+| 3  | Identificando objectos aproximados en imágenes usando Machine Learning | Python   | En preparación |
 
-- [Charla #1: Buscando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)
-- [Charla #2: Identificando objectos dentro de una imágen usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)
-- Charla #3: Identificando objectos dentro de una imágen usando ML[^1]
+### Entornos de Desarrollo
 
-[^1]: Aún en preparación
+| Nombre                                                        | Descripción                                         | Lenguaje |
+| ------------------------------------------------------------- | --------------------------------------------------- | -------- |
+| [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php) | Entorno dockerizado para desarrollo de aplicaciones | PHP      |
+| [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)   | Entorno dockerizado para desarrollo de aplicaciones | Go       |
 
-### Proyectos
+### Entornos de Ejecucución
 
-- Entornos de Desarrollo
-  - [Skeleton para crear aplicaciones PHP con herramientas y comandos frecuentes](https://github.com/AlcidesRC/php-skeleton)
-  - [Entorno dockerizado de desarrollo de aplicaciones en PHP-FPM](https://github.com/AlcidesRC/dockerized-php)
-  - [Entorno dockerizado de desarrollo de microservicios en PHP-FPM y Caddy](https://github.com/AlcidesRC/microservice-caddy-phpfpm)
-  - [Entorno dockerizado de desarrollo de aplicaciones en Go](https://github.com/AlcidesRC/dockerized-go)
+| Nombre                                                                                  | Descripción                                                   | Lenguaje |
+| --------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------- |
+| [Microservicio Caddy + PHP-FPM](https://github.com/AlcidesRC/microservice-caddy-phpfpm) | Entorno dockerizado de desarrollo de microservicios con Caddy | PHP      |
 
-- Librerías
-  - [Librería en PHP con tipos de datos más estrictos con PHP](https://github.com/AlcidesRC/severe)
-  - [Librería en PHP para la ejecución de flujos de tareas](https://github.com/AlcidesRC/sequence)
-  - [Clase para optimizar estructuras cacheables en PHP](https://github.com/AlcidesRC/cache)
-  - [Librería que implementa Redis Pub/Sub con PHP](https://github.com/AlcidesRC/php-redis-pubsub)
-  - [Librería en PHP para la conversión de colores](https://github.com/AlcidesRC/coloreeze)
-  
-- Ideas y PoC
-  - [Obteniendo los códigos postales de España con PHP](https://github.com/AlcidesRC/scraping-correos-with-php)  
-  - [Resolviendo sudokus con PHP](https://github.com/AlcidesRC/sudoku-solver-in-php)
-  
+### Librerías
+
+| Nombre                                                         | Descripción                                       | Lenguaje |
+| -------------------------------------------------------------- | ------------------------------------------------- | -------- |
+| [PHP Skeleton](https://github.com/AlcidesRC/php-skeleton)      | Boilerplate para aplicaciones                     | PHP      |
+| [Severe](https://github.com/AlcidesRC/severe)                  | Tipos de datos más estrictos                      | PHP      |
+| [Sequence](https://github.com/AlcidesRC/sequence)              | Implementación del patrón Chain of Responsability | PHP      |
+| [Cache](https://github.com/AlcidesRC/cache)                    | Optimizador estructuras de datos cacheables       | PHP      |
+| [Coloreeze](https://github.com/AlcidesRC/coloreeze)            | Conversión de formatos de colores                 | PHP      |
+| [Redis PUB/SUB](https://github.com/AlcidesRC/php-redis-pubsub) | Implementación de PUB/SUB con Redis               | PHP      |
+
+### Ideas y Pruebas de Concepto
+
+| Nombre                                                                     | Descripción                                         | Lenguaje |
+| -------------------------------------------------------------------------- | --------------------------------------------------- | -------- |
+| [Scraping Correos](https://github.com/AlcidesRC/scraping-correos-with-php) | Scraper para obtener los códigos postales de España | PHP      |
+| [Resolviendo sudokus](https://github.com/AlcidesRC/sudoku-solver-in-php)   | Resuelve sudokus de 9x9                             | PHP      |
+
 ### Gists
 
-- [Makefile para proyectos PHP](https://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465)
-- [Códigos Postales de España en formato CSV](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177)
-- [Cómo crear un backup con Bash y AWS S3](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)
+| Nombre                                                                                         | Descripción                                                                            |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| [Makefile](https://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465)                 | Makefile con comandos frecuentes para el desarollo de aplicaciones                     |
+| [backup-projectx.sh](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)       | Shell script que permite hacer un backup de una aplicación y enviar el backup a AWS S3 |
+| [spanish-postal-codes.csv](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177) | CSV con los códigos postales de España obtenido mediante un [scraper hecho con PHP](https://github.com/AlcidesRC/scraping-correos-with-php)      |
 
 ### Estadísticas
 
