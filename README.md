@@ -1,28 +1,30 @@
 [![Twitter Badge](https://img.shields.io/badge/-@AlcidesRC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alcidesrc)](https://twitter.com/alcidesrc) [![Linkedin Badge](https://img.shields.io/badge/-AlcidesRC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcidesrc/)](https://www.linkedin.com/in/alcidesrc/) [![Codepen Badge](https://img.shields.io/badge/-AlcidesRC-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/alcidesrc/)](https://codepen.io/alcidesrc/) [![Exercism](https://img.shields.io/badge/-AlcidesRC-purple?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/AlcidesRC/)](https://exercism.org/profiles/AlcidesRC)
 
 
-# Hola, me llamo Alcides 👋
+# Hi, my name is Alcides 👋
 
-### Sobre mi
+### About me
 
-- Trabajo como **SWE** en [Lleego Travel Market SL](https://lleego.com) y como **CTO** en [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com).
-- Soy padre a tiempo completo pero puedes contactarme para la realización de **consultorías** o para la **mentorización/formación** de equipos.
+- I'm **CTO** at [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com) and **SWE** at [Lleego Travel Market SL](https://lleego.com).
+- You can contact me for **consulting**, **training sessions** or **mentoring advices**.
+- Full-time father.
+- ASD
 
-#### Intereses
+#### Interests
 
 - PHP/Python/Ruby/Go
 - Open Source
-- Desarrollo de software
+- Software Development
 - DevOps/GitOps
 
-### Lenguajes de Programación y Bases de Datos
+### Coding Languages / DBMS
 
 <table>
   <thead>
     <tr>
       <th>Backend</th>
       <th>Frontend</th>
-      <th>Bases de Datos</th>
+      <th>Database</th>
     </tr>
   </thead>
   <tbody>
@@ -52,16 +54,16 @@
   </tbody>
 </table>
 
-> Recursos más usados a diario
+> Resources most used daily
 
-### Frameworks, Herramientas e Infraestructura
+### Frameworks, Toos & Infrastructure
 
 <table>
   <thead>
     <tr>
       <th>Frameworks</th>
-      <th>Herramientas</th>
-      <th>Infraestructura</th>
+      <th>Tools</th>
+      <th>Infrastructure</th>
     </tr>
   </thead>
   <tbody>
@@ -95,68 +97,68 @@
   </tbody>
 </table>
 
-> Recursos más usados a diario
+> Resources most used daily
 
-### Certificados
+### Certificates
 
-- **The Complete Ruby on Rails Developer Course** de [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/), Noviembre 2022 
+- **The Complete Ruby on Rails Developer Course** from [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/). November, 2022 
 
-### Formación
+### Trainings
 
-| Tipo   | Nombre                           | Lenguaje | Estado         |
-| ------ | -------------------------------- | -------- | -------------- |
-| Taller | [Docker para devs](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)                 | PHP      | Completa       |
-| Taller | Continuous Integration para devs | PHP      | En preparación |
-| Taller | Continuous Deployment para devs  | PHP      | En preparación |
+| Type   | Name                                                                                    | Coding Language | Status    |
+| ------ | --------------------------------------------------------------------------------------- | --------------- | --------- |
+| Taller | [Optimizing Docker](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40) | PHP             | Completed |
+| Taller | Continuous Integration                                                                  | PHP             | WIP       |
+| Taller | Continuous Deployment                                                                   | PHP             | WIP       |
 
-### Charlas sobre Computer Vision
+### Talks about Computer Vision
 
-| ID | Nombre                                                                 | Lenguaje | Estado         |
-| --:| ---------------------------------------------------------------------- | -------- | -------------- |
-| 1  | [Identificando imágenes similares usando pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                        | PHP      | Completa       |
-| 2  | [Identificando objectos exactos en imágenes usando OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)               | Python   | Completa       |
-| 3  | Identificando objectos aproximados en imágenes usando Machine Learning | Python   | En preparación |
+| ID | Name                                                                                                                          | Coding Language | Status    |
+| --:| ----------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
+| 1  | [Identifying similar images using pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                          | PHP             | Completed |
+| 2  | [Identifying exact objects in images using OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv) | Python          | Completed |
+| 3  | Identifying objects in images using Machine Learning                                                                          | Python          | WIP       |
 
-### Entornos de Desarrollo
+### Development Environment(s)
 
-| Nombre                                                        | Descripción                                         | Lenguaje |
-| ------------------------------------------------------------- | --------------------------------------------------- | -------- |
-| [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php) | Entorno dockerizado para desarrollo de aplicaciones | PHP      |
-| [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)   | Entorno dockerizado para desarrollo de aplicaciones | Go       |
+| Name                                                          | Description                        | Coding Language |
+| ------------------------------------------------------------- | ---------------------------------- | --------------- |
+| [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php) | Dockerized development environment | PHP             |
+| [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)   | Dockerized development environment | Go              |
 
-### Entornos de Ejecucución
+### Microservice(s)
 
-| Nombre                                                                                  | Descripción                                                   | Lenguaje |
-| --------------------------------------------------------------------------------------- | ------------------------------------------------------------- | -------- |
-| [Microservicio Caddy + PHP-FPM](https://github.com/AlcidesRC/microservice-caddy-phpfpm) | Entorno dockerizado de desarrollo de microservicios con Caddy | PHP      |
+| Name                                                                      | Description                                                          | Coding Language |
+| ------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------- |
+| [Caddy + PHP-FPM](https://github.com/AlcidesRC/microservice-caddy-phpfpm) | Dockerized environment to run PHP-FPM with Caddy as a single service | PHP             |
 
-### Librerías
+### Libraries
 
-| Nombre                                                         | Descripción                                       | Lenguaje |
-| -------------------------------------------------------------- | ------------------------------------------------- | -------- |
-| [PHP Skeleton](https://github.com/AlcidesRC/php-skeleton)      | Boilerplate para aplicaciones                     | PHP      |
-| [Severe](https://github.com/AlcidesRC/severe)                  | Tipos de datos más estrictos                      | PHP      |
-| [Sequence](https://github.com/AlcidesRC/sequence)              | Implementación del patrón Chain of Responsability | PHP      |
-| [Cache](https://github.com/AlcidesRC/cache)                    | Optimizador estructuras de datos cacheables       | PHP      |
-| [Coloreeze](https://github.com/AlcidesRC/coloreeze)            | Conversión de formatos de colores                 | PHP      |
-| [Redis PUB/SUB](https://github.com/AlcidesRC/php-redis-pubsub) | Implementación de PUB/SUB con Redis               | PHP      |
+| Name                                                           | Description                                       | Coding Language |
+| -------------------------------------------------------------- | ------------------------------------------------- | --------------- |
+| [PHP Skeleton](https://github.com/AlcidesRC/php-skeleton)      | Boilerplate                                       | PHP             |
+| [Severe](https://github.com/AlcidesRC/severe)                  | Being even more severe with data types            | PHP             |
+| [Sequence](https://github.com/AlcidesRC/sequence)              | Implementation of Chain of Responsability pattern | PHP             |
+| [Cache](https://github.com/AlcidesRC/cache)                    | Optimize cacheable data structures                | PHP             |
+| [Coloreeze](https://github.com/AlcidesRC/coloreeze)            | Color convertion made easy                        | PHP             |
+| [Redis PUB/SUB](https://github.com/AlcidesRC/php-redis-pubsub) | Implementation of PUB/SUB with Redis              | PHP             |
 
-### Ideas y Pruebas de Concepto
+### Ideas & PoC
 
-| Nombre                                                                     | Descripción                                         | Lenguaje |
-| -------------------------------------------------------------------------- | --------------------------------------------------- | -------- |
-| [Scraping Correos](https://github.com/AlcidesRC/scraping-correos-with-php) | Scraper para obtener los códigos postales de España | PHP      |
-| [Resolviendo sudokus](https://github.com/AlcidesRC/sudoku-solver-in-php)   | Resuelve sudokus de 9x9                             | PHP      |
+| Name                                                                       | Description                                           | Coding Language |
+| -------------------------------------------------------------------------- | ----------------------------------------------------- | -------- |
+| [Scraping Correos](https://github.com/AlcidesRC/scraping-correos-with-php) | Scraper to get the whole list of Spanish postal codes | PHP      |
+| [Resolviendo sudokus](https://github.com/AlcidesRC/sudoku-solver-in-php)   | Automatically solve 9x9 sudokus                       | PHP      |
 
 ### Gists
 
-| Nombre                                                                                         | Descripción                                                                            |
-| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
-| [Makefile](https://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465)                 | Makefile con comandos frecuentes para el desarollo de aplicaciones                     |
-| [backup-projectx.sh](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)       | Shell script que permite hacer un backup de una aplicación y enviar el backup a AWS S3 |
-| [spanish-postal-codes.csv](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177) | CSV con los códigos postales de España obtenido mediante un [scraper hecho con PHP](https://github.com/AlcidesRC/scraping-correos-with-php)      |
+| Name                                                                                           | Description                                                                                                             |
+| ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [Makefile](https://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465)                 | Makefile with usefull commands when developing apps with PHP                                                            |
+| [backup-projectx.sh](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)       | Shell script that backups a web application and stores the backup into AWS S3                                           |
+| [spanish-postal-codes.csv](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177) | CSV file with Spanish postal codes [using this PHP application](https://github.com/AlcidesRC/scraping-correos-with-php) |
 
-### Estadísticas
+### Stats
 
 ![Profile views](https://komarev.com/ghpvc/?username=alcidesrc&color=blue)
 
