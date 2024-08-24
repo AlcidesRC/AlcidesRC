@@ -121,10 +121,10 @@
 
 ### Development Environment(s)
 
-| Name                                                          | Description                        | Coding Language |
-| ------------------------------------------------------------- | ---------------------------------- | --------------- |
-| [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php) | Dockerized development environment | PHP             |
-| [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)   | Dockerized development environment | Go              |
+| Name                                                          | Description                                           | Coding Language |
+| ------------------------------------------------------------- | ----------------------------------------------------- | --------------- |
+| [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php) | Dockerized development environment with Caddy support | PHP             |
+| [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)   | Dockerized development environment                    | Go              |
 
 ### Microservice(s)
 
