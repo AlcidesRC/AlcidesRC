@@ -129,12 +129,6 @@
 | [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php)                         | Env using Caddy as web server in separated containers      | PHP             |
 | [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)                           | Basic env                                                  | Go              |
 
-### Microservice(s)
-
-| Name                                                                      | Description                                                          | Coding Language |
-| ------------------------------------------------------------------------- | -------------------------------------------------------------------- | --------------- |
-| [Caddy + PHP-FPM](https://github.com/AlcidesRC/microservice-caddy-phpfpm) | Dockerized environment to run PHP-FPM with Caddy as a single service | PHP             |
-
 ### Libraries
 
 | Name                                                           | Description                                       | Coding Language |
