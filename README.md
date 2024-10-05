@@ -119,15 +119,27 @@
 | 2  | [Identifying exact objects in images using OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv) | Python          | Completed |
 | 3  | Identifying objects in images using Machine Learning                                                                          | Python          | WIP       |
 
-### Development Environment(s)
+### PHP Development Environment(s)
 
-| Name                                                                                  | Description                                                | Coding Language |
-| ------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------------- |
-| [Dockerized PHP + Supervisor](https://github.com/AlcidesRC/dockerized-php-supervisor) | Env using built-in web server and Supervisor               | PHP             |
-| [Dockerized PHP + Caddy Server](https://github.com/AlcidesRC/dockerized-php-caddy)    | Env using Caddy as web server in one single container      | PHP             |
-| [Dockerized PHP + FrankenPHP](https://github.com/AlcidesRC/dockerized-php-frankenphp) | Env using FrankenPHP as web server in one single container | PHP             |
-| [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php)                         | Env using Caddy as web server in separated containers      | PHP             |
-| [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)                           | Basic env                                                  | Go              |
+#### [Dockerized PHP + Supervisor](https://github.com/AlcidesRC/dockerized-php-supervisor)
+
+Dockerized PHP environment using built-in webserver and fully managed by Supervisor.
+
+#### [Dockerized PHP + Caddy Server](https://github.com/AlcidesRC/dockerized-php-caddy)
+
+Dockerized PHP environment using Caddy webserver and loaded the application as a Caddy module. 
+
+#### [Dockerized PHP + FrankenPHP](https://github.com/AlcidesRC/dockerized-php-frankenphp)
+
+Dockerized PHP environment using FrankenPHP webserver and loaded the application as a FrankenPHP module. 
+
+#### [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php)
+
+### Go Development Environment(s)
+
+Dockerized Go environment
+
+#### [Dockerized Go](https://github.com/AlcidesRC/dockerized-go)
 
 ### Libraries
 
