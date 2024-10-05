@@ -135,6 +135,8 @@ Dockerized PHP environment using FrankenPHP webserver and loaded the application
 
 #### [Dockerized PHP](https://github.com/AlcidesRC/dockerized-php)
 
+Dockerized PHP environment using Caddy webserver and running the application in a separated Docker service. 
+
 ### Go Development Environment(s)
 
 Dockerized Go environment
