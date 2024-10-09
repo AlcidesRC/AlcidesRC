@@ -5,8 +5,8 @@
 
 ### About me
 
-- I'm **CTO** at [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com) and **SWE** at [Lleego Travel Market SL](https://lleego.com).
-- You can contact me for **consulting**, **training sessions** or **mentoring advices**.
+- I'm **CTO** at [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com) and **SWE**.
+- You can contact me for **consulting**, **training sessions** and/or **mentoring advices**.
 - Full-time father.
 - ASD
 
