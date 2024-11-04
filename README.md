@@ -103,13 +103,16 @@
 
 - **The Complete Ruby on Rails Developer Course** from [Udemy](https://www.udemy.com/course/the-complete-ruby-on-rails-developer-course/). November, 2022 
 
-### Trainings
+### Published Courses & Workshops
 
-| Type   | Name                                                                                    | Coding Language | Status    |
-| ------ | --------------------------------------------------------------------------------------- | --------------- | --------- |
-| Taller | [Optimizing Docker](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40) | PHP             | Completed |
-| Taller | Continuous Integration                                                                  | PHP             | WIP       |
-| Taller | Continuous Deployment                                                                   | PHP             | WIP       |
+| Type     | Language | Name                                                                                         |
+| -------- | -------- | -------------------------------------------------------------------------------------------- |
+| Course   | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/introduccion-a-makefiles) |
+| Course   | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/introduccion-a-docker)               |
+| Course   | Spanish  | Creando imágenes personalizadas y optimizadas de Docker                                      |
+| Workshop | Spanish  | [Docker para devs PHP](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)   |
+| Workshop | Spanish  | Continuous Integration con GitHub                                                            |
+| Workshop | Spanish  | Continuous Deployment con GitHub                                                             |
 
 ### Talks about Computer Vision
 
@@ -165,7 +168,7 @@ Dockerized Go environment
 
 | Name                                                                                           | Description                                                                                                             |
 | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [Makefile](https://gist.github.com/AlcidesRC/36eea84497c1ebf9735e7d18536e4465)                 | Makefile with usefull commands when developing apps with PHP                                                            |
+| [Makefile](https://gist.github.com/AlcidesRC/7ff0450e22f2ff90e4954089cc3b48a0)                 | Makefile with usefull commands when developing apps with PHP                                                            |
 | [backup-projectx.sh](https://gist.github.com/AlcidesRC/4d3542c20743d3df8c87d45f510c8ec4)       | Shell script that backups a web application and stores the backup into AWS S3                                           |
 | [spanish-postal-codes.csv](https://gist.github.com/AlcidesRC/14f80f7842acc91e14c11dc22b52d177) | CSV file with Spanish postal codes [using this PHP application](https://github.com/AlcidesRC/scraping-correos-with-php) |
 
