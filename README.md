@@ -5,17 +5,11 @@
 
 ### About me
 
-- I'm **CTO** at [Futur Legal Advocats i Economistes S.L.P.](https://futurlegal.com) and **SWE**.
-- You can contact me for **consulting**, **training sessions** and/or **mentoring advices**.
-- Full-time father.
-- ASD
+🚀 Software Developer | Hexagonal Architecture | DevOps
 
-#### Interests
+👨‍💻 Passionate about building **clean** and **scalable software** with **SOLID** principles, **TDD**, and **design patterns**. Skilled in **PHP**, **Python**, **Ruby**, and **Go**, with interest on **DevOp/GitOp** culture and focus on **Docker** and **CI/CD** integration. 
 
-- PHP/Python/Ruby/Go
-- Open Source
-- Software Development
-- DevOps/GitOps
+ℹ️ I share tips and resources in Spanish for developers and teams seeking high-quality code and project optimization.
 
 ### Coding Languages / DBMS
 
