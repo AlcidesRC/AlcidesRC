@@ -105,14 +105,14 @@
 
 ### Published Courses & Workshops
 
-| Type     | Language | Name                                                                                         |
-| -------- | -------- | -------------------------------------------------------------------------------------------- |
-| Course   | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/introduccion-a-makefiles) |
-| Course   | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/introduccion-a-docker)               |
-| Course   | Spanish  | Creando imágenes personalizadas y optimizadas de Docker                                      |
-| Workshop | Spanish  | [Docker para devs PHP](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)   |
-| Workshop | Spanish  | Continuous Integration con GitHub                                                            |
-| Workshop | Spanish  | Continuous Deployment con GitHub                                                             |
+| Type     | Language | Name                                                                                         | Updated At | 
+| -------- | -------- | -------------------------------------------------------------------------------------------- | ---------- |
+| Course   | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/introduccion-a-makefiles) | 2024-11-05 |
+| Course   | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/introduccion-a-docker)               | 2024-11-05 |
+| Course   | Spanish  | Creando imágenes personalizadas y optimizadas de Docker                                      | -          |
+| Workshop | Spanish  | [Docker para devs PHP](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)   | 2024-06-01 |
+| Workshop | Spanish  | Continuous Integration con GitHub                                                            | -          |
+| Workshop | Spanish  | Continuous Deployment con GitHub                                                             | -          |
 
 ### Talks about Computer Vision
 
