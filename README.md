@@ -5,9 +5,17 @@
 
 ### About me
 
-🚀 Software Developer | Hexagonal Architecture | DevOps
+🇮🇨 I was born in Tenerife, Canary Islands.
 
-👨‍💻 Passionate about building **clean** and **scalable software** with **SOLID** principles, **TDD**, and **design patterns**. Skilled in **PHP**, **Python**, **Ruby**, and **Go**, with interest on **DevOp/GitOp** culture and focus on **Docker** and **CI/CD** integration. 
+⚠️ Neurodivergent • Dyslexic • Sociable and unsocial.
+
+👨🏻‍💻 CTO • Software Engineer • Solution Architech
+
+📖 Eternal Padawan
+
+🔸 Topics: #coding #devop #opensource #cleancode #hexagonal
+
+🚀 Passionate about building **clean** and **scalable software** with **SOLID** principles, **TDD**, and **design patterns**. Skilled in **PHP**, **Python**, **Ruby**, and **Go**, with interest on **DevOp/GitOp** culture and focus on **Docker** and **CI/CD** integration. 
 
 ℹ️ I share tips and resources in Spanish for developers and teams seeking high-quality code and project optimization.
 
