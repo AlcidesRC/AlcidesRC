@@ -110,11 +110,12 @@
 
 ### Talks about Computer Vision
 
-| ID | Name                                                                                                                          | Coding Language | Status    |
-| --:| ----------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
-| 1  | [Identifying similar images using pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                          | PHP             | Completed |
-| 2  | [Identifying exact objects in images using OpenCV](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv) | Python          | Completed |
-| 3  | Identifying objects in images using Machine Learning                                                                          | Python          | WIP       |
+| ID | Name                                                                                                                                           | Coding Language | Status    |
+| --:| ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
+| 1  | [Identifying similar images using pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                                           | PHP             | Completed |
+| 2  | [OpenCV: Using Template Matching to find exact image portions](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)      | Python          | Completed |
+| 3  | [OpenCV: Using TensorFlow pre-trained models to find objects in images](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml) | PHP             | Completed |
+| 4  | [OpenCV: Using TensorFlow pre-trained models remove image backgrounds](https://github.com/AlcidesRC/cv-remove-image-background-with-ml)        | PHP             | Completed |
 
 ### PHP Development Environment(s)
 
