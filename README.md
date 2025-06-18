@@ -107,25 +107,26 @@
 
 ### Published Courses & Workshops
 
-| Type     | Language | Name                                                                                         | Updated At | 
-| -------- | -------- | -------------------------------------------------------------------------------------------- | ---------- |
-| Course   | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/introduccion-a-makefiles) | 2024-11-05 |
-| Course   | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/introduccion-a-docker)               | 2024-11-05 |
-| Course   | Spanish  | Creando imágenes personalizadas y optimizadas de Docker                                      | -          |
-| Workshop | Spanish  | [Docker para devs PHP](https://gist.github.com/AlcidesRC/9e8997635d2b74f790e72b667c2cfa40)   | 2024-06-01 |
-| Workshop | Spanish  | Continuous Integration con GitHub                                                            | -          |
-| Workshop | Spanish  | Continuous Deployment con GitHub                                                             | -          |
+| Type | Language | Name                                                                                                         | Published At | 
+| ---- | -------- | ------------------------------------------------------------------------------------------------------------ | ------------ |
+| Post | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/2024/11/introduccion-a-ficheros-makefile) | 2024-11-05   |
+| Post | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/2024/11/introduccion-a-docker)                       | 2024-10-18   |
+| Post | Spanish  | [Perceptual Hashes (pHashes)](https://alcidesrc.com/formacion/2025/06/perceptual-hashes-phashes)             | 2025-06-17   |
 
 ### Talks about Computer Vision
 
-| ID | Name                                                                                                                                          | Coding Language | Status    |
-| --:| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- | --------- |
-| 1  | [Identifying similar images using pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                                          | PHP             | Completed |
-| 2  | [OpenCV: Using Template Matching to find exact image portions](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)     | Python          | Completed |
-| 3  | [OpenCV: Using TensorFlow pre-trained model to find objects in images](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml) | PHP             | Completed |
-| 4  | [OpenCV: Using TensorFlow pre-trained model to remove image backgrounds](https://github.com/AlcidesRC/cv-remove-image-background-with-ml)     | PHP             | Completed |
+| ID | Name                                                                                                                                                   | Coding Language | Status    |
+| --:| ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------- | --------- |
+| 1  | [Computer Vision: Identifying similar images using pHashes](https://github.com/AlcidesRC/cv-searching-similar-images)                                  | PHP             | Completed |
+| 2  | [Computer Vision: Using Template Matching to find exact image portions](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-opencv)     | Python          | Completed |
+| 3  | [Computer Vision: Using TensorFlow pre-trained model to find objects in images](https://github.com/AlcidesRC/cv-identifying-objects-in-images-with-ml) | PHP             | Completed |
+| 4  | [Computer Vision: Using TensorFlow pre-trained model to remove image backgrounds](https://github.com/AlcidesRC/cv-remove-image-background-with-ml)     | PHP             | Completed |
 
 ### PHP Development Environment(s)
+
+#### [LaravelPHP + Octane + FrankenPHP](https://github.com/AlcidesRC/laravel-octane-frankenphp)
+
+Dockerized environment to use LaravelPHP, Octane with FrankenPHP. 
 
 #### [Dockerized PHP + Supervisor](https://github.com/AlcidesRC/dockerized-php-supervisor)
 
