@@ -107,11 +107,13 @@
 
 ### Published Courses & Workshops
 
-| Type | Language | Name                                                                                                         | Published At | 
-| ---- | -------- | ------------------------------------------------------------------------------------------------------------ | ------------ |
-| Post | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/2024/11/introduccion-a-ficheros-makefile) | 2024-11-05   |
-| Post | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/2024/11/introduccion-a-docker)                       | 2024-10-18   |
-| Post | Spanish  | [Perceptual Hashes (pHashes)](https://alcidesrc.com/formacion/2025/06/perceptual-hashes-phashes)             | 2025-06-17   |
+| Type | Language | Name                                                                                                                                            | Published At | 
+| ---- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Post | Spanish  | [Introducción a ficheros Makefile](https://alcidesrc.com/formacion/2024/11/introduccion-a-ficheros-makefile)                                    | 2024-11-05   |
+| Post | Spanish  | [Introducción a Docker](https://alcidesrc.com/formacion/2024/11/introduccion-a-docker)                                                          | 2024-10-18   |
+| Post | Spanish  | [Perceptual Hashes (pHashes)](https://alcidesrc.com/formacion/2025/06/perceptual-hashes-phashes)                                                | 2025-06-17   |
+| Post | Spanish  | [Arquitectura Hexagonal. ¿Por dónde empezar?](https://alcidesrc.com/formacion/2025/06/arquitectura-hexagonal-por-donde-empezar)                 | 2025-06-25   |
+| Post | Spanish  | [Creando entornos de trabajo dockerizados para PHP](https://alcidesrc.com/formacion/2025/07/creando-un-entorno-de-trabajo-dockerizado-para-php) | 2025-07-19   |
 
 ### Talks about Computer Vision
 
