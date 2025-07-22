@@ -1,4 +1,7 @@
-[![Twitter Badge](https://img.shields.io/badge/-@AlcidesRC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/alcidesrc)](https://twitter.com/alcidesrc) [![Linkedin Badge](https://img.shields.io/badge/-AlcidesRC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcidesrc/)](https://www.linkedin.com/in/alcidesrc/) [![Codepen Badge](https://img.shields.io/badge/-AlcidesRC-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/alcidesrc/)](https://codepen.io/alcidesrc/) [![Exercism](https://img.shields.io/badge/-AlcidesRC-purple?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/AlcidesRC/)](https://exercism.org/profiles/AlcidesRC)
+[![BlueSky Badge](https://img.shields.io/badge/-@AlcidesRC-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=bluesky&logoColor=white&link=https://bsky.app/profile/alcidesrc.com)](https://bsky.app/profile/alcidesrc.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-AlcidesRC-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alcidesrc/)](https://www.linkedin.com/in/alcidesrc/) 
+[![Codepen Badge](https://img.shields.io/badge/-AlcidesRC-black?style=flat-square&logo=Codepen&logoColor=white&link=https://codepen.io/alcidesrc/)](https://codepen.io/alcidesrc/) 
+[![Exercism](https://img.shields.io/badge/-AlcidesRC-purple?style=flat-square&logo=Exercism&logoColor=white&link=https://exercism.org/profiles/AlcidesRC/)](https://exercism.org/profiles/AlcidesRC) 
 
 
 # Hi, my name is Alcides 👋
